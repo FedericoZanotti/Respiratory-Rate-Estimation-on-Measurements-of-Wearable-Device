@@ -1,6 +1,6 @@
 # Respiratory Rate Estimation on Measurements of Wearable Device
 
-**Source Code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](HDA_project.ipynb)
+**Source Code**:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FedericoZanotti/Respiratory-Rate-Estimation-on-Measurements-of-Wearable-Device/blob/master/HDA_project.ipynb)
 
 In this project I have used a pulse oximiter to collect vital signs on myself. Then I developed a Deep Learning model capable of 
 predicting my respiratory rate.
